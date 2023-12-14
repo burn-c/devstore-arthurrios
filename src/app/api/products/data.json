@@ -6,7 +6,7 @@
           "slug": "moletom-never-stop-learning",
           "price": 69,
           "image": "/moletom-never-stop-learning.png",
-          "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+          "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": true
       },
       {
@@ -15,7 +15,7 @@
           "slug": "moletom-ai-side",
           "price": 49,
           "image": "/moletom-ai-side.png",
-          "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+          "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": true
       },
       {
@@ -24,7 +24,7 @@
           "slug": "camiseta-dowhile-2022",
           "price": 29,
           "image": "/camiseta-dowhile-2022.png",
-          "description": "Camiseta fabricada com 100% de algodão.",
+          "description": "T-shirt made with 100% cotton.",
           "featured": true
       },
       {
@@ -33,7 +33,7 @@
           "slug": "moletom-java-2023",
           "price": 49,
           "image": "/moletom-java.png",
-          "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+          "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": false
       },
       {
@@ -42,7 +42,7 @@
           "slug": "moletom-ia-p-devs",
           "price": 49,
           "image": "/moletom-ia-p-devs.png",
-          "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+          "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": false
       }
   ]
