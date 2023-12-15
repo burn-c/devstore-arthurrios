@@ -1,3 +1,4 @@
+import { NextResponse } from 'next/server'
 import data from '../data.json'
 
 export async function GET() {
@@ -7,5 +8,5 @@ export async function GET() {
     (product) => product.featured === true,
   )
 
-  return Response.json(featuredProducts)
+  return NextResponse.json(featuredProducts)
 }
