@@ -3,45 +3,45 @@
       {
           "id": 1,
           "title": "Sweatshirt Never Stop Learning",
-          "slug": "moletom-never-stop-learning",
+          "slug": "sweatshirt-never-stop-learning",
           "price": 69,
-          "image": "/moletom-never-stop-learning.png",
+          "image": "/sweatshirt-never-stop-learning.png",
           "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": true
       },
       {
           "id": 2,
           "title": "Sweatshirt AI Side",
-          "slug": "moletom-ai-side",
+          "slug": "sweatshirt-ai-side",
           "price": 49,
-          "image": "/moletom-ai-side.png",
+          "image": "/sweatshirt-ai-side.png",
           "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": true
       },
       {
           "id": 3,
           "title": "T-shirt DoWhile 2022",
-          "slug": "camiseta-dowhile-2022",
+          "slug": "tshirt-dowhile-2022",
           "price": 29,
-          "image": "/camiseta-dowhile-2022.png",
+          "image": "/tshirt-dowhile-2022.png",
           "description": "T-shirt made with 100% cotton.",
           "featured": true
       },
       {
           "id": 4,
           "title": "Sweatshirt Java 2023",
-          "slug": "moletom-java-2023",
+          "slug": "sweatshirt-java-2023",
           "price": 49,
-          "image": "/moletom-java.png",
+          "image": "/sweatshirt-java.png",
           "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": false
       },
       {
           "id": 5,
           "title": "Sweatshirt AI for devs",
-          "slug": "moletom-ia-p-devs",
+          "slug": "sweatshirt-ai-for-devs",
           "price": 49,
-          "image": "/moletom-ia-p-devs.png",
+          "image": "/sweatshirt-ai-for-devs.png",
           "description": "Sweatshirt made with 88% cotton and 12% polyester.",
           "featured": false
       }
