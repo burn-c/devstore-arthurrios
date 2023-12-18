@@ -10,7 +10,7 @@ export default async function Search() {
 
       <div className="grid grid-cols-3 gap-6">
         <Link
-          href={`/product/moletom-never-stop-learning`}
+          href={`/product/sweatshirt-never-stop-learning`}
           className="group relative rounded-lg bg-zinc-900 overflow-hidden flex justify-center items-start"
         >
           <Image
