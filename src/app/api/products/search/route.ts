@@ -1,7 +1,6 @@
 import { z } from 'zod'
 import data from '../data.json'
 import type { NextRequest } from 'next/server'
-import { NextResponse } from 'next/server'
 
 export async function GET(request: NextRequest) {
   await new Promise((resolve) => setTimeout(resolve, 1000))
@@ -14,5 +13,5 @@ export async function GET(request: NextRequest) {
     return product.title.toLocaleLowerCase().includes(query.toLocaleLowerCase())
   })
 
-  return NextResponse.json(products)
+  return Response.json(products)
 }
