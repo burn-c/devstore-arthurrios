@@ -48,5 +48,5 @@ jobs:
           APP_URL: "http://localhost:3000"
           NEXT_PUBLIC_API_BASE_URL: "https://devstore-api-lovat.vercel.app"
         with:
-          build: pnpm ci
+          build: pnpm run build
           start: pnpm start
